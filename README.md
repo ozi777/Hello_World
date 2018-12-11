@@ -3,4 +3,5 @@ Just another repository
 
 Hey Humans! :)
 
-Greetings, I'm trying to learn new stuff by myself. 
+ozi777 here, I'm just a newbie trying to learn new stuff by myself.
+I'm intrested in JavaScript, Node.js, Data Science, R, Python, AI, Machine Learning and green smoothies. 
